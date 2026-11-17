@@ -34,9 +34,9 @@ IMG.logo {
     width: 85vw;
 }
 IMG.toxik {
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
 }
-a:active {
+a::active {
     color: red;
 }
